@@ -4,6 +4,8 @@
 [submodule "Monix2.0Back"]
 	path = Monix2.0Back
 	url = ../Monix2.0Back
+	branch = main
 [submodule "Monix2.0Front"]
 	path = Monix2.0Front
 	url = ../Monix2.0Front
+	branch = main
